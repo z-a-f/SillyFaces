@@ -1,5 +1,6 @@
 # Generated stuff
 generated/
+!generated/.gitkeep
 
 # Editors
 .vscode/
